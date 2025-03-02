@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://grayjiaaoli.github.io/sitemap.xml
